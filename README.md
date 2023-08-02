@@ -12,7 +12,7 @@ He trabajado como team leader en empresas como IBM, por lo que entiendo y manejo
 
 Me pueden encontrar en:
 
-<a href="https://www.linkedin.com/in/nicol%C3%A1s-dandolo-9a941b286/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/nicol%C3%A1s-dandolo-9a941b286/">LinkedIn</a> <br />
 Mail: ddandolo@yahoo.com
 
 
@@ -28,7 +28,7 @@ I've worked as a team leader in companies such as IBM, so I understand and manag
 
 You can find me at:
 
-<a href="https://www.linkedin.com/in/nicol%C3%A1s-dandolo-9a941b286/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/nicol%C3%A1s-dandolo-9a941b286/">LinkedIn</a> <br />
 E-Mail: ddandolo@yahoo.com
 
 <!--
