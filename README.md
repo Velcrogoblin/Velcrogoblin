@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 Hola! Mi nombre es Nicolás
 
 Siempre tuve interés por la tecnología. Me formé de forma autodidacta en distintas áreas y finalmente curse mis estudios formales en SoyHenry, graduándome como full-stack developer. 
