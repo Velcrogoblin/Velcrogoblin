@@ -13,6 +13,7 @@ He trabajado como team leader en empresas como IBM, por lo que entiendo y manejo
 Me pueden encontrar en:
 
 <a href="https://www.linkedin.com/in/nicol%C3%A1s-dandolo-9a941b286/">LinkedIn</a>
+Mail: ddandolo@yahoo.com
 
 
 -------
@@ -24,6 +25,11 @@ I am proficient in front and back-end, CSS, HTML, React-Redux, NodeJs and Sequel
 I'm constantly searching to improve and learn new technologies so as to become a better developer.
 
 I've worked as a team leader in companies such as IBM, so I understand and manage efficiently team work and problem-solving that require immediate attention.
+
+You can find me at:
+
+<a href="https://www.linkedin.com/in/nicol%C3%A1s-dandolo-9a941b286/">LinkedIn</a>
+E-Mail: ddandolo@yahoo.com
 
 <!--
 **Velcrogoblin/Velcrogoblin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
