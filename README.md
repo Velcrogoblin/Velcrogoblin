@@ -10,6 +10,11 @@ Estoy en la constante búsqueda de aprendizaje y perfeccionamiento de más y nue
 
 He trabajado como team leader en empresas como IBM, por lo que entiendo y manejo con eficiencia el trabajo en equipo y la resolución de problemas que requieren de atención inmediata.
 
+Me pueden encontrar en:
+
+<a href="https://www.linkedin.com/in/nicol%C3%A1s-dandolo-9a941b286/">LinkedIn</a>
+
+
 -------
 
 Hi! My name is Nicolás
